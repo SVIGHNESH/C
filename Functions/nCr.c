@@ -4,7 +4,7 @@ int factorial(int n) {
     int fact = 1;
     for (int i = 1; i <= n; i++) {
         fact = fact * i;
-    }
+     }//it is just multiplying  the all the number less than the fact and sotring the value of the multiply in fact.
     return fact;
 }
 
