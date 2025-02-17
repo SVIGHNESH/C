@@ -3,7 +3,7 @@ int main()
 {    
     int n, reverse=0, rem;    
     printf("Enter a number: ");    
-    scanf("%d", &n);    
+    scanf("%d", &n); //this is just me testing the git function that it is going to work or not     
     while(n!=0)    
       {    
          rem=n%10;    
