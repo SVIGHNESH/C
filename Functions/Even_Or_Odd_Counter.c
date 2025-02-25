@@ -17,6 +17,21 @@ int Even_Or_Odd_Counter(int arr[], int size){
 
 }
 
+int print(int arr[],int n ){
+  int i = arr[0];
+  int j = arr[h];
+
+
+  do {
+    i++;
+  } while (arr[i]<pivot);
+  do {
+    j--;
+  } while (arr[i]>pivot);
+  swap(arr[i],arr[j])while (true) {
+  }
+}
+
 int main(){
     int arr[10];
     printf("Enter the Elements in the Array:\n");

@@ -12,4 +12,5 @@ int main()
         }    
     printf("Sum is=%d",sum);    
     return 0;  
-    }   
+//this is  just a comment from the nvim
+}   
